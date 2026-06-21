@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Umesh Dunna</h1>
+
+![Java](https://img.shields.io/badge/Java-17-orange?logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6-green?logo=springboot)
+![React](https://img.shields.io/badge/React-19-blue?logo=react)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)
+
 <h3 align="center">🚀 Java Full Stack Developer | React.js | Node.js | Spring Boot</h3>
 
 <p align="center">
