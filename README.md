@@ -64,7 +64,7 @@ A modern responsive portfolio showcasing my projects, skills, and achievements.
 ## 📫 Connect With Me
 
 💼 LinkedIn  
-www.linkedin.com/in/umesh-dunna-19893a307
+linkedin.com/in/umesh-dunna-cybersecurity
 
 🌐 Portfolio  
 https://portfolio-umesh1.vercel.app/
