@@ -70,7 +70,7 @@ www.linkedin.com/in/umesh-dunna-19893a307
 https://portfolio-umesh1.vercel.app/
 
 📧 Email  
-your-email@example.com
+dunnaumesh2006@gmail.com
 
 ---
 
